@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WinnerWorld
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=WinnerWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WinnerWorld.\r\n\ The\ size\ of\ the\ Background.\r\n\ The\ placement\ and\ size\ of\ the\ Text\ "You\ Won\ \!".\r\n
+comment2.params=message\ x\ y
+comment2.target=void\ showTextWithBigPinkFont(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ This\ method\ shows\ a\ Pink\ "You\ Won"\ Text\ once\ the\ Pig\ eats\ all\ the\ Burgers.\ When\ the\ player\ wins\ the\ Game.\r\n
+numComments=3
